@@ -1,9 +1,10 @@
 # Setup
 title: Dark Poole
-url: https://getpoole.com
+url: https://r3sgame.github.io/likewise-learn-blog/
 paginate: 1
-baseurl: ""
+baseurl: "/likewise-learn-blog"
 permalink: pretty
+paginate_path: "/baseurl/page:num/"
 
 # Gems
 plugins:
@@ -32,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: r3sgame
+  url: https://twitter.com/r3sgame
+  email: r3s.softlocke@gmail.com
 
 # Custom vars
 version: 3.0.0
