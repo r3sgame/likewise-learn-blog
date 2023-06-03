@@ -42,8 +42,8 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
+  - title: Home
+    url: https://likewise-learn.web.app
 
-  - title: About
-    url: /about
+  - title: Posts
+    url: /archive
