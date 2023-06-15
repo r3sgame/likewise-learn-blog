@@ -22,7 +22,11 @@ Engagement Rate = ((500 + 100 + 50) / 10,000) * 100 = 6.5%
 
 - Audience Connection: Engagement rate is a valuable indicator of how well you are connecting with your audience. A higher engagement rate signifies that your content resonates with your followers and encourages them to take action. It shows that you're fostering meaningful interactions and building a community around your brand or content.
 
+![Reach](https://likewise-learn.web.app/assets/Branding2-4cb2bd03.png)
+
 - Content Performance: By tracking engagement rates across different posts, you can identify which types of content and topics resonate the most with your audience. This insight allows you to refine your content strategy, create more engaging posts, and boost your overall social media performance.
+
+![Content](https://likewise-learn.web.app/assets/Branding1-2208ccf7.png)
 
 - Authenticity and Trust: High engagement rates indicate that your audience finds value in your content, fostering a sense of authenticity and trust. When people actively engage with your posts, it indicates a positive sentiment towards your brand or message, making them more likely to become loyal followers, customers, or advocates.
 
