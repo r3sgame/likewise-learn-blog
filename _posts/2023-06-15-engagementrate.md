@@ -18,6 +18,8 @@ For instance, if a post receives 500 likes, 100 comments, 50 shares, and 10,000 
 
 Engagement Rate = ((500 + 100 + 50) / 10,000) * 100 = 6.5%
 
+If you want to make it easier to predict and improve your engagement rates, consider using [Likewise Learn](https://likewise-learn.web.app/).
+
 ## Why is it Useful?
 
 - Audience Connection: Engagement rate is a valuable indicator of how well you are connecting with your audience. A higher engagement rate signifies that your content resonates with your followers and encourages them to take action. It shows that you're fostering meaningful interactions and building a community around your brand or content.
